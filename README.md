@@ -14,7 +14,7 @@ Estudando com o DevClub, passando para as próximas tecnologias:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
 <br>
 Meu Currículo 
-<a href="www.linkedin.com/in/domingos-rossi-1848872b4">
+<a href="https://www.linkedin.com/in/domingos-rossi-1848872b4">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> <a/>
 <br>
 
